@@ -10,7 +10,7 @@
 |5|Данилов Егор|||||
 |6|Борходоев Алексей|||||
 |7|Чазов Глеб|||||
-|8|Караваев Дмитрий|||||
+|8|Караваев Дмитрий|Acropora cervicornis|39%|Western Atlantic Ocean|[Acropora cervicornis](https://github.com/dmitriikaravaev/hse25_Acropora_cervicornis)|
 |9|Кнышев Глеб|||||
 |10|Мирзоева Елена|||||
 
