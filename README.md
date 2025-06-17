@@ -7,7 +7,7 @@
 |2|Дорожкина Ирина|Acropora digitifera|39%|Indo-Pacific, tropical reefs||
 |3|Терентьева Кристина|Acropora millepora|39%|western and central Indo-Pacific.||
 |4|Андреева Алена|Acropora muricata|39%|Indo-Pacific|[Acropora muricata](https://github.com/aLittleOcean/hse_15_project_acropora_muricata)|
-|5|Данилов Егор|Acropora palmata|39%|western Atlantic Ocean. Tropical||
+|5|Данилов Егор|Acropora palmata|39%|western Atlantic Ocean. Tropical| [Acropora palmata](https://github.com/Danilovem/hse25_final_proj)|
 |6|Борходоев Алексей|Acropora tenuis|39%|Indo-Pacific. Tropical to subtropical.||
 |7|Чазов Глеб|||||
 |8|Караваев Дмитрий|Acropora cervicornis|39%|Western Atlantic Ocean|[Acropora cervicornis](https://github.com/dmitriikaravaev/hse25_Acropora_cervicornis)|
