@@ -2,7 +2,8 @@
 
 [Предварительная презентация](https://docs.google.com/presentation/d/1fcCui5AxxPBHOgyGSAEOSeYGjpnsqvB43RPrgU4BxXM/edit?usp=sharing)
 
-[Итоговая презентацияъ(https://docs.google.com/presentation/d/1zsi7qatQ0gtlwepXknVh10soyl7S4BHL4BIuMP8FgHs/edit?usp=sharing)
+[Итоговая презентация](https://docs.google.com/presentation/d/1zsi7qatQ0gtlwepXknVh10soyl7S4BHL4BIuMP8FgHs/edit?slide=id.g3696e1e847c_0_12#slide=id.g3696e1e847c_0_12)
+
 
 ||Участники|Вид|GC-содержание|Условия обитания|Индивидуальный гит-хаб|
 |--|--|--|--|--|--|
