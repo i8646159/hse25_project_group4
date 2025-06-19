@@ -17,3 +17,19 @@
 |8|Караваев Дмитрий|Acropora cervicornis|39%|Western Atlantic Ocean|[Acropora cervicornis](https://github.com/dmitriikaravaev/hse25_Acropora_cervicornis)|
 |9|Кнышев Глеб|Acropora gemmifera|39%|Indo-Pacific||
 |10|Мирзоева Елена|Acropora loripes|39%|tropical Indo-Pacific||
+
+
+
+## Выравнивания и деревья.
+
+Параметры построения деревьев:
+
+
+![Снимок экрана 2025-06-19 181405](https://github.com/user-attachments/assets/a2ca2ef4-27b5-4dde-93cd-1c70d3cc50cc)
+
+### ДНК-метилтрансфераза для 4 организмов
+
+![Снимок экрана 2025-06-19 181351](https://github.com/user-attachments/assets/0298a87d-cfa9-46f1-a5ab-38c6b8c387d7)
+
+
+![Doc1-1](https://github.com/user-attachments/assets/64fadc31-4c30-4da2-aa89-0ea39132365b)
