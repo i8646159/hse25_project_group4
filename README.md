@@ -33,3 +33,13 @@
 
 
 ![Doc1-1](https://github.com/user-attachments/assets/64fadc31-4c30-4da2-aa89-0ea39132365b)
+
+
+### Белки одного типа из разных видов рода Acropora.
+
+![photo_1_2025-06-19_21-57-27](https://github.com/user-attachments/assets/32203716-b7cf-44be-831d-d52d4161ee98)
+
+
+![photo_2_2025-06-19_21-57-27](https://github.com/user-attachments/assets/1a4cea15-6358-44bb-878b-8c240f11f2c5)
+
+Белки одного типа из разных видов рода Acropora в основном кластеризуются вместе (например, два "crooked neck-like protein1"), что подтверждает ортологичность этих генов. Некоторые белки формируют отдельные кластеры (например, бромодоменсодержащий белок и histone acetyltransferase KAT8), что говорит о их функциональной специфике.
