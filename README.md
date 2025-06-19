@@ -15,7 +15,7 @@
 |6|Борходоев Алексей|Acropora tenuis|39%|Indo-Pacific. Tropical to subtropical.| [Acropora tenuis](https://github.com/alekhaan/hse25_Acropora_tenuis) |
 |7|Чазов Глеб| Acropora pulchra |39%|Western Indo-Pacific| [Acropora pulchra](https://github.com/gchazov/hse25_Acropora-pulchra) |
 |8|Караваев Дмитрий|Acropora cervicornis|39%|Western Atlantic Ocean|[Acropora cervicornis](https://github.com/dmitriikaravaev/hse25_Acropora_cervicornis)|
-|9|Кнышев Глеб|Acropora gemmifera|39%|Indo-Pacific||[Acropora gemmifera](https://github.com/Renedyn/hse25_proj)|
+|9|Кнышев Глеб|Acropora gemmifera|39%|Indo-Pacific|[Acropora gemmifera](https://github.com/Renedyn/hse25_proj)|
 |10|Мирзоева Елена|Acropora spathulata|39%|Great Barrier Reef, Australia |[Acropora spathulata](https://github.com/L3n0r4ik/hse_acropora_spathulata)|
 
 
