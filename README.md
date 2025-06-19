@@ -9,7 +9,7 @@
 |4|Андреева Алена|Acropora muricata|39%|Indo-Pacific|[Acropora muricata](https://github.com/aLittleOcean/hse_15_project_acropora_muricata)|
 |5|Данилов Егор|Acropora palmata|39%|western Atlantic Ocean. Tropical| [Acropora palmata](https://github.com/Danilovem/hse25_final_proj)|
 |6|Борходоев Алексей|Acropora tenuis|39%|Indo-Pacific. Tropical to subtropical.| [Acropora tenuis](https://github.com/alekhaan/hse25_Acropora_tenuis) |
-|7|Чазов Глеб| Acropora pulchra |39%|Western Indo-Pacific||
+|7|Чазов Глеб| Acropora pulchra |39%|Western Indo-Pacific| [Acropora pulchra](https://github.com/gchazov/hse25_Acropora-pulchra) |
 |8|Караваев Дмитрий|Acropora cervicornis|39%|Western Atlantic Ocean|[Acropora cervicornis](https://github.com/dmitriikaravaev/hse25_Acropora_cervicornis)|
 |9|Кнышев Глеб|Acropora gemmifera|39%|Indo-Pacific||
 |10|Мирзоева Елена|Acropora loripes|39%|tropical Indo-Pacific||
